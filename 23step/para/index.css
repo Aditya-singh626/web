@@ -1,0 +1,21 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+#text {
+  font-weight: 100;
+  font-family: Arial, Helvetica, sans-serif;
+  color: aqua;
+}
+.head {
+  display: flex;
+  justify-content: space-evenly;
+  border: solid 2px aqua;
+  padding: 20px;
+  background-image:url(./371-3711758_vlc-media-player-logo-hd-png-download.png);
+}
+.para {
+  border: solid 2px red;
+  background-color: yellowgreen;
+  border-radius: 12px;
+}
